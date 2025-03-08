@@ -1,0 +1,4 @@
+Для установки:
+1. Сохраните папку Electric в удобное для вас место
+2. Измените путь к папке и к иконке в файле electric.desktop
+3. Скопируйте файл electric.desktop в .local/share/applications

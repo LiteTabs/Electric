@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Resistor Calculator
+Comment=Calculate resistor values and visualize color bands
+Exec=/usr/bin/python3 /home/path-to-program/Electric/electric.py
+Icon=/home/path-to-program/Electric/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Electronics;
+Keywords=resistor;calculator;electronics;
+StartupNotify=true
+StartupWMClass=com.example.Electric
